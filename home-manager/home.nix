@@ -28,8 +28,8 @@
   
   programs.git = {
     enable = true;
-    userName  = "John Doe";
-    userEmail = "johndoe@example.com";
+    userName  = "vlucet";
+    userEmail = "valentin.lucet@gmail.com";
   };
 
   programs.zsh = {
